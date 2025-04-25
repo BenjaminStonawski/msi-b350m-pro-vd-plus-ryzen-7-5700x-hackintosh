@@ -28,3 +28,6 @@ If Handoff or Universal Clipboard don't work, check out my guide in the 'handoff
 
 ## Doesn't work
 🫢 Well, everything works!
+
+## Screenshots
+[](https://github.com/BenjaminStonawski/msi-b350m-pro-vd-plus-ryzen-7-5700x-hackintosh/blob/main/screenshots/Screenshot%202025-04-25%20at%201.14.58%20PM.png?raw=true)
